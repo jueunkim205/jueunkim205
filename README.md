@@ -10,10 +10,9 @@
 
 이거 보고 따라하기
 https://velog.io/@imysh578/github-Profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
-
 https://yangsosolife.tistory.com/101
+https://velog.io/@myway00/%EC%83%88%EB%A1%9C-%EB%B0%9B%EC%9D%80-Github-Badge
 
-https://github-readme-stats.vercel.app/api?username=jueunkim205
 
 
 
