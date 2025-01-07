@@ -11,6 +11,8 @@
 이거 보고 따라하기
 https://velog.io/@imysh578/github-Profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 
+https://yangsosolife.tistory.com/101
+
 https://github-readme-stats.vercel.app/api?username=jueunkim205
 
 
