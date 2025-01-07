@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact)
+<a href="https://github.com/jueunkim205"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JUEUN's github stats" /></a>
+
+
 [![HitCount](https://hits.dwyl.com/jueunkim205/jueunkim205.svg?style=flat-square&show=unique)](http://hits.dwyl.com/jueunkim205/jueunkim205)
 
 <!-- 
