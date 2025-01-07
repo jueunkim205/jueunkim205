@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20HELLO!%20&height=300&fontSize=100&textBg=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact)
 <a href="https://github.com/jueunkim205"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JUEUN's github stats" /></a>
