@@ -13,7 +13,7 @@
 
 
 ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&theme=synthwave)
-<img height="195px" style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact">
+<img height="195px" width"250px" style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact">
 
 </div>
 
