@@ -8,7 +8,7 @@
         https://github.com/kyechan99/capsule-render
 -->
         
-![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&theme=vue&width=200px)
+![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&theme=vue&card_width=200px)
 <img width="200"  style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact">
 
 </div>
