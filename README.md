@@ -12,7 +12,7 @@
 -->
 
 
-![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&card_width="200px"&show_icons=true&theme=synthwave)
+![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&card_width=200px&show_icons=true&theme=synthwave)
 <img width="200"  style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact">
 
 </div>
