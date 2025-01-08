@@ -6,6 +6,9 @@
         
 ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&theme=vue)
 <img height="195"  style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact">
+</div>
+
+
 <!-- 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact)
