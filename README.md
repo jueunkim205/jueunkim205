@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20HELLO!%20&height=200&fontSize=100&textBg=true)
 
+<!-- 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact)
 <a href="https://github.com/jueunkim205"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JUEUN's github stats" /></a>
 
 
 [![HitCount](https://hits.dwyl.com/jueunkim205/jueunkim205.svg?style=flat-square&show=unique)](http://hits.dwyl.com/jueunkim205/jueunkim205)
 
-<!-- 
+
 
 이거 보고 따라하기
 https://velog.io/@imysh578/github-Profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
