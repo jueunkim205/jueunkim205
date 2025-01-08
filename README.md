@@ -5,6 +5,7 @@
         
 <!-- 
         https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
+        https://github.com/anuraghazra/github-readme-stats
         https://github.com/kyechan99/capsule-render
 
         ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&theme=synthwave&card_width=200)
