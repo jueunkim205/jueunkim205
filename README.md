@@ -1,4 +1,5 @@
-<div align="center"></div>
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20HELLO!%20&height=200&fontSize=100&textBg=true)
  <br>
         
@@ -10,7 +11,7 @@
 ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&theme=vue)
 <img height="195"  style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact">
 
-
+</div>
 
 <!-- 
 
@@ -44,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
