@@ -1,5 +1,11 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20HELLO!%20&height=200&fontSize=100&textBg=true)
-
+<br><br>
+<!--     ambient_gradient    buefy -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+        
+![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkim205&show_icons=true&theme=vue)
+<img height="195"  style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact">
 <!-- 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkim205&layout=compact)
